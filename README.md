@@ -1,1 +1,1 @@
-# Final_Year_Thesis_Project_Management_System
+# Final_Year_Thesis_Project_Management_System for Software Engineering Department
